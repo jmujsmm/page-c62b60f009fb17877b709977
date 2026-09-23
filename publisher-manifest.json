@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "03d1203d8bb6a907819e2b48",
+  "owner": "jmujsmm",
+  "repo": "page-c62b60f009fb17877b709977",
+  "title": "Panda",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c62b60f009fb17877b709977",
+      "a": "Panda",
+      "b": "2027最新官网",
+      "entity": "Panda",
+      "brand": "Panda",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0924e5f65b39ac5577f3514815b85e0340036995dc8f3266a1a5c0cf5cadcfb6",
+      "content": {
+        "primary_entity": "Panda",
+        "keyword1": "Panda",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外网络加速的用户，覆盖基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并搭载 IPLC 专线优化；团队版每月 1000GB 流量、支持 20 台设备，适合多人协作。按年付更划算，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_HERO_SUBTITLE": "Panda 海外加速，按需选套餐",
+          "AI_HERO_INTRO": "Panda 提供多档海外网络加速套餐，按流量、设备数量和线路类型区分。个人用户可从基础版或旗舰版入手，团队用户适合团队版。订阅后按客户端文档导入配置即可使用，支持多设备同时在线。",
+          "AI_VISUAL_TITLE": "Panda 加速套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版搭载 IPLC 专线",
+          "AI_HIGHLIGHT_3": "多设备同时在线支持",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个维度选择适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月重置。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖家庭与小型团队。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，按客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 15 元/月、旗舰版 35 元/月、团队版 85 元/月，年付分别 150 元、350 元、850 元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选套餐、看适配、配订阅，三步完成设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "对照设备类型查看客户端适配要求，确认系统版本与网络环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，完成节点选择与连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "Panda 加速，按需订阅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量支持 3 台设备，适合个人手机加电脑；旗舰版每月 300GB 支持 5 台设备；团队版每月 1000GB 支持 20 台设备。按常用设备数量和月流量选即可。",
+          "AI_FAQ_ANSWER_2": "Panda 通过订阅地址提供给各客户端使用。在客户端中选择订阅或配置导入，粘贴购买后获得的订阅链接即可拉取节点。不同客户端菜单名称略有差异，可对照客户端文档操作。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。若家里有多台手机、平板和电脑需要同时连接，建议按设备总数选更高一档。",
+          "AI_FAQ_ANSWER_4": "月付灵活、便于短期使用；年付更划算，基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用可以选年付降低月均成本。",
+          "AI_FAQ_ANSWER_5": "先确认手机、电脑或路由器等常用设备类型，再估算每月流量和同时在线设备数量。个人轻度使用选基础版，有流媒体和游戏加速需求选旗舰版，设备多或用量大选团队版。",
+          "AI_FAQ_QUESTION_1": "Panda 三个套餐分别适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "Panda 的节点订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "怎样判断自己该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358a282apda.org",
+    "host": "xn--mes358a282apda.org"
+  },
+  "file_hashes": {
+    "index.html": "41ac7f76fa27272f58b2adf5623f6afcc12b7e561e395c7e096b75bdcf0c65b1",
+    "sitemap.xml": "9159714ea020088575f5bbac7ff7cd9a3891c34baae9c91dc35c81e8edb16cee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "24f9cd89a662cade2d8de4313601aaba7ca7910d360e78e8e8c39c3eb13662d1",
+    "robots.txt": "37c3a920e65639d501f5ca1af35763741c30a302dc30e36b18c46e12ee502cc7",
+    "70d863729fa518ae807d648222d6c561.txt": "ef0b71feb8502ba2c4b14687369473cf391c5dbbe82714bf97de92d2715a5290"
+  },
+  "revision": "77cd40219905fd965cb66a440cd3d31fc965ff924b10e21c9319de9f97804eb3"
+}
